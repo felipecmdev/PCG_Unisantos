@@ -27,7 +27,7 @@ dadosfd = {
 # print e for usados para a criação do cabeçalho
 print("")
 print("------------------------------------------------------")
-print("Trabalho de Felipe, Carvalho Kauan Alves e Lucas Herzog")
+print("Trabalho de Felipe Carvalho, Kauan Alves, Sophia Araujo e Vinicius Peres")
 print("------------------------------------------------------")
 print("A relação entre o tabagismo e a depressão")
 
